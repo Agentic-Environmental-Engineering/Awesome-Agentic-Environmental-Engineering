@@ -13,8 +13,8 @@
 
 <p align="center">
   <a href="#news">News</a> |
-  <a href="#introduction">Introduction</a> |
   <a href="#table-of-content">Table of Content</a> |
+  <a href="#introduction">Introduction</a> |
   <a href="#taxonomy-at-a-glance">Taxonomy</a> |
   <a href="#environment-domains">Domains</a> |
   <a href="#environment-synthesis-and-evaluation">Synthesis</a> |
@@ -31,6 +31,19 @@
 ## News
 
 - 2026-06-05: Initial preview repository created with paper figures, README taxonomy, citation, contact information, and the full cited reference list.
+
+## Table of Content
+
+- [News](#news)
+- [Table of Content](#table-of-content)
+- [Introduction](#introduction)
+- [Taxonomy at a Glance](#taxonomy-at-a-glance)
+- [Environment Domains](#environment-domains)
+- [Environment Synthesis and Evaluation](#environment-synthesis-and-evaluation)
+- [Agent-Environment Co-Evolution](#agent-environment-co-evolution)
+- [Citation](#citation)
+- [Contact](#contact)
+- [References](#references)
 
 ## Introduction
 
@@ -53,19 +66,6 @@ In the paper, agentic environments are defined as dynamic, interactive systems d
   <img src="assets/figures/preliminaries.png" alt="From data engineering to environment engineering" width="82%">
 </p>
 
-## Table of Content
-
-- [News](#news)
-- [Introduction](#introduction)
-- [Table of Content](#table-of-content)
-- [Taxonomy at a Glance](#taxonomy-at-a-glance)
-- [Environment Domains](#environment-domains)
-- [Environment Synthesis and Evaluation](#environment-synthesis-and-evaluation)
-- [Agent-Environment Co-Evolution](#agent-environment-co-evolution)
-- [Citation](#citation)
-- [Contact](#contact)
-- [References](#references)
-
 ## Taxonomy at a Glance
 
 The survey characterizes agentic environments through eight attributes: representation, feedback, timing, observability, stochasticity, continuity, modality, and cardinality. These attributes correspond to symbolic or neural environments, open-loop or closed-loop environments, online or offline environments, MDP or POMDP settings, deterministic or nondeterministic dynamics, discrete or continuous spaces, unimodal or multimodal interfaces, and single-agent or multi-agent environments.
@@ -84,20 +84,20 @@ The survey characterizes agentic environments through eight attributes: represen
 
 The survey groups representative agentic environments into eight domains: GUI, Deep Research, Embodied, Game, Tool, Code, Domain-Specific, and Cross-Domain. These domains are used to describe the development paths of current benchmarks and environments as well as the core capabilities they evaluate or support.
 
-<p align="center">
-  <img src="assets/figures/environment-domains.png" alt="Environment domains" width="96%">
-</p>
-
 | Domain | Representative focus in the survey |
 | --- | --- |
 | GUI | Desktop, mobile, and web GUI environments |
-| Deep Research | Browsing, information seeking, long-form research, and report-generation environments |
+| Deep&nbsp;Research | Browsing, information seeking, long-form research, and report-generation environments |
 | Embodied | Household, robotics, navigation, science, and virtual embodied environments |
 | Game | Open-world, puzzle reasoning, social deduction, adventure quest, and strategy management games |
 | Tool | Conventional tool use, user-simulated tool use, and MCP-based tool use |
 | Code | Code generation, understanding, verification, debugging, and repository-level tasks |
 | Domain-Specific | Environments for specialized fields such as medicine, science, finance, law, business, and biology |
 | Cross-Domain | General-purpose environments and benchmarks spanning multiple task worlds |
+
+<p align="center">
+  <img src="assets/figures/environment-domains.png" alt="Environment domains" width="96%">
+</p>
 
 ## Environment Synthesis and Evaluation
 
