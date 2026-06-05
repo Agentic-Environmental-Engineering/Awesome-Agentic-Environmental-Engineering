@@ -30,7 +30,7 @@
 
 ## News
 
-- 2026-06-05: Initial preview repository created with paper figures, README taxonomy, citation, contact information, and the full cited reference list.
+- [May 29, 2026]: We release the first version of our survey paper on OpenReview. [Paper](https://openreview.net/pdf?id=2p2L6LAwEN)
 
 ## Table of Content
 
@@ -51,7 +51,7 @@ This repository accompanies the survey **Agentic Environment Engineering for Lar
 
 The paper focuses on three research questions: what characteristics and categories define agentic environments, how agentic environments can be constructed and evaluated, and how environments support the closed-loop co-evolution of agents and environments. It reviews environments through eight attributes and eight task domains, then discusses symbolic and neural synthesis, quality evaluation, agent evolution, environment evolution, and future directions.
 
-> Paper status: the public PDF link will be added after the camera-ready PDF or arXiv version is available.
+> Paper: [OpenReview PDF](https://openreview.net/pdf?id=2p2L6LAwEN)
 
 In the paper, agentic environments are defined as dynamic, interactive systems designed for evaluating and training LLM agents. Such environments provide permissible actions, observations, and rewards, enabling iterative interaction between models and environments. The survey also compares traditional data engineering with environment engineering, emphasizing the shift from static corpora and single-turn question answering toward dynamic feedback, multi-turn interaction, and closed-loop control.
 
