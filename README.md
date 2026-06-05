@@ -92,8 +92,8 @@ The survey groups representative agentic environments into eight domains: GUI, D
 | Game | Open-world, puzzle reasoning, social deduction, adventure quest, and strategy management games |
 | Tool | Conventional tool use, user-simulated tool use, and MCP-based tool use |
 | Code | Code generation, understanding, verification, debugging, and repository-level tasks |
-| Domain-Specific | Environments for specialized fields such as medicine, science, finance, law, business, and biology |
-| Cross-Domain | General-purpose environments and benchmarks spanning multiple task worlds |
+| Domain&#8209;Specific | Specialized disciplinary or industrial settings, including biomedicine and healthcare, science and technology, and finance and investment |
+| Cross&#8209;Domain | General-purpose environments and benchmarks spanning multiple task worlds |
 
 <p align="center">
   <img src="assets/figures/environment-domains.png" alt="Environment domains" width="96%">
