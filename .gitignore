@@ -1,0 +1,19 @@
+# OS and editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Local build artifacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# Temporary files
+tmp/
+*.tmp

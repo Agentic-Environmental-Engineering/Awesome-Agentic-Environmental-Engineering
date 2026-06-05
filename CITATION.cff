@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If this survey or repository is useful to your research, please cite it as below."
+title: "Agentic Environment Engineering for Large Language Models"
+type: article
+authors:
+  - family-names: Li
+    given-names: Jiachun
+  - family-names: Jin
+    given-names: Zhuoran
+  - family-names: Men
+    given-names: Tianyi
+  - family-names: Hao
+    given-names: Yupu
+  - family-names: Zhu
+    given-names: Kejian
+  - family-names: Wang
+    given-names: Lingshuai
+  - family-names: Huang
+    given-names: Dongqi
+  - family-names: Wang
+    given-names: Longxiang
+  - family-names: Hua
+    given-names: Shengjia
+  - family-names: Wang
+    given-names: Lu
+  - family-names: Gao
+    given-names: Jinshan
+  - family-names: Yuan
+    given-names: Hongbang
+  - family-names: Xu
+    given-names: Ruilin
+  - family-names: Liu
+    given-names: Kang
+  - family-names: Zhao
+    given-names: Jun
+year: 2026
+repository-code: "https://github.com/WangLingshuai/environment-example"
