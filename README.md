@@ -7,7 +7,7 @@
 <p align="center">
   <a href="#introduction"><img alt="Survey" src="https://img.shields.io/badge/Survey-Agentic%20Environment%20Engineering-2F855A"></a>
   <a href="#environment-attribute"><img alt="Taxonomy" src="https://img.shields.io/badge/Taxonomy-Attributes%20%2B%20Domains-2B6CB0"></a>
-  <a href="#environment-domain"><img alt="Papers" src="https://img.shields.io/badge/Papers-582%20Classified%20Works-805AD5"></a>
+  <a href="#environment-domain"><img alt="Papers" src="https://img.shields.io/badge/Papers-Classified%20References-805AD5"></a>
   <a href="#citation"><img alt="Citation" src="https://img.shields.io/badge/Citation-Cite%20Our%20Survey-D69E2E"></a>
 </p>
 
