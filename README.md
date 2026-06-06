@@ -32,7 +32,7 @@
 
 ## News
 
-- [May 29, 2026]: We release the first version of our survey paper on OpenReview. [Paper](https://openreview.net/pdf?id=2p2L6LAwEN)
+- [May 19, 2026]: We release the first version (v1) of our survey paper. [Paper](https://openreview.net/pdf?id=2p2L6LAwEN)
 
 ## Table of Content
 
