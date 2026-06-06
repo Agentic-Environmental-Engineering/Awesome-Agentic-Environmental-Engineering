@@ -13,10 +13,10 @@ Good additions should be directly related to agentic environments for large lang
 
 ## Entry Format
 
-Please use this format in `resources/papers.md`:
+Please use this format in both `README.md` and `resources/papers.md`:
 
 ```markdown
-| [Paper or Project Name](https://example.com/paper) | Year | One-sentence focus |
+1. **Title**, *Authors*, Venue Year. [Paper](https://example.com/paper)
 ```
 
 If there is no stable paper or project URL yet, use plain text for the title and add the link later.
@@ -24,6 +24,7 @@ If there is no stable paper or project URL yet, use plain text for the title and
 ## Pull Request Checklist
 
 - The work is placed under the most relevant taxonomy section.
+- The entry is added to both the main `README.md` and `resources/papers.md` under the same category.
 - The link is stable and publicly accessible.
 - The description is short, factual, and not promotional.
 - Duplicate entries are avoided.
