@@ -911,7 +911,3 @@ This file mirrors the README paper classification. Each entry is copied from the
 ### Offline-Online Learning and Co-Evolution
 
 1. **On-Policy Distillation**, *Lu et al.*, Thinking Machines Lab: Connectionism 2025. [Paper](https://doi.org/10.64434/tml.20251026)
-
-## Contributing
-
-Please see [CONTRIBUTING.md](../CONTRIBUTING.md) before adding or editing entries.
