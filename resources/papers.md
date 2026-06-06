@@ -11,7 +11,7 @@ This file mirrors the README paper classification. Each entry is copied from the
 - [Environment Synthesis and Evaluation](#environment-synthesis-and-evaluation)
 - [Agent Evolution](#agent-evolution)
 - [Environment Evolution](#environment-evolution)
-- [Challenges & Future Directions](#challenges-future-directions)
+- [Challenges & Future Directions](#challenges--future-directions)
 
 ## Introduction
 

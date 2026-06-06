@@ -21,7 +21,7 @@
   <a href="#environment-synthesis-and-evaluation">Synthesis</a> |
   <a href="#agent-evolution">Agent Evolution</a> |
   <a href="#environment-evolution">Environment Evolution</a> |
-  <a href="#challenges-future-directions">Future Directions</a> |
+  <a href="#challenges--future-directions">Future Directions</a> |
   <a href="#citation">Citation</a> |
   <a href="#contact">Contact</a>
 </p>
@@ -44,13 +44,15 @@
 - [Environment Synthesis and Evaluation](#environment-synthesis-and-evaluation)
 - [Agent Evolution](#agent-evolution)
 - [Environment Evolution](#environment-evolution)
-- [Challenges & Future Directions](#challenges-future-directions)
+- [Challenges & Future Directions](#challenges--future-directions)
 - [Citation](#citation)
 - [Contact](#contact)
 
 ## Introduction
 
 This repository accompanies the survey **Agentic Environment Engineering for Large Language Models**. The survey studies agentic environments as dynamic, interactive systems for evaluating and training LLM agents, and organizes the field around environment modeling, automated environment synthesis, environment evaluation, and agent-environment co-evolution.
+
+This repository serves as a structured navigation companion to the paper: it organizes the surveyed works by the paper's taxonomy and lifecycle modules so readers can quickly locate related environments, synthesis methods, evaluation methods, and evolution methods.
 
 The paper is organized around three research questions: what characteristics and categories define agentic environments, how agentic environments can be systematically constructed and evaluated, and how environments facilitate the closed-loop co-evolution of agents and environments.
 
@@ -1095,4 +1097,4 @@ If you find this survey helpful, please cite our survey:
 
 ## Contact
 
-For any questions or feedback, please reach out to us at jiachun.li@nlpr.ia.ac.cn, zhuoran.jin@nlpr.ia.ac.cn or tianyi.men@nlpr.ia.ac.cn
+For any questions or feedback, please reach out to us at jiachun.li@nlpr.ia.ac.cn, zhuoran.jin@nlpr.ia.ac.cn or tianyi.men@nlpr.ia.ac.cn.
