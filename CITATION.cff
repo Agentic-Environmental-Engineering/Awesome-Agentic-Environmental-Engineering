@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If this survey or repository is useful to your research, please cite it as below."
-title: "Agentic Environment Engineering for Large Language Models"
+title: "Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application"
 type: article
 authors:
   - family-names: Li
@@ -35,3 +35,5 @@ authors:
     given-names: Jun
 year: 2026
 repository-code: "https://github.com/WangLingshuai/environment-example"
+url: "https://arxiv.org/abs/2606.12191"
+date-released: 2026-06-10
